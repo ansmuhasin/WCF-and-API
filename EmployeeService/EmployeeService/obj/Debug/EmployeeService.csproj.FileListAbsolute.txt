@@ -1,0 +1,6 @@
+F:\Learning Projects\WCF-and-API\EmployeeService\EmployeeService\bin\Debug\EmployeeService.dll.config
+F:\Learning Projects\WCF-and-API\EmployeeService\EmployeeService\bin\Debug\EmployeeService.dll
+F:\Learning Projects\WCF-and-API\EmployeeService\EmployeeService\bin\Debug\EmployeeService.pdb
+F:\Learning Projects\WCF-and-API\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.CoreCompileInputs.cache
+F:\Learning Projects\WCF-and-API\EmployeeService\EmployeeService\obj\Debug\EmployeeService.dll
+F:\Learning Projects\WCF-and-API\EmployeeService\EmployeeService\obj\Debug\EmployeeService.pdb

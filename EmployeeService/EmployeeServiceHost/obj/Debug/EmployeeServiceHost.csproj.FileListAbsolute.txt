@@ -1,0 +1,11 @@
+F:\Learning Projects\WCF-and-API\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe.config
+F:\Learning Projects\WCF-and-API\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe
+F:\Learning Projects\WCF-and-API\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.pdb
+F:\Learning Projects\WCF-and-API\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeService.dll
+F:\Learning Projects\WCF-and-API\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeService.pdb
+F:\Learning Projects\WCF-and-API\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeService.dll.config
+F:\Learning Projects\WCF-and-API\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csproj.AssemblyReference.cache
+F:\Learning Projects\WCF-and-API\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csproj.CoreCompileInputs.cache
+F:\Learning Projects\WCF-and-API\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csproj.CopyComplete
+F:\Learning Projects\WCF-and-API\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.exe
+F:\Learning Projects\WCF-and-API\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.pdb
